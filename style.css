@@ -16,7 +16,7 @@ body {
     height: 100vh; /* 화면 전체 높이 꽉 채우기 */
     /* 배경 이미지와 어두운 반투명 오버레이를 겹쳐서 글자가 잘 보이게 함 */
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), 
-                url('https://picsum.photos/id/1050/1920/1080') center/cover no-repeat;
+                url('http://www.cicmedia.co.kr/data/file/portfolio1/thumb-1028332731_i96kFAvl_EBAA85ED8390ECA095ECBD94EB829C_14EAB8B0_1000x563.jpg') center/cover no-repeat;
     
     /* Flexbox를 사용해 내용을 정중앙에 배치 */
     display: flex;
